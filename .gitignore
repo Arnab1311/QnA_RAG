@@ -1,0 +1,12 @@
+# Ignore Windows/Mac system files
+.DS_Store
+thumbs.db
+
+# Ignore Python bytecodes
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folder
+
+RAG/  
+
